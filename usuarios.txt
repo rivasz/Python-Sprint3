@@ -1,0 +1,1 @@
+{"vitor": {"senha": "123", "moedas": 102, "sorte": 5}}
